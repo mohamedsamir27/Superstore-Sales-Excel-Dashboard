@@ -6,7 +6,9 @@ This project focuses on analyzing retail sales data from the **Sample Superstore
 ---
 
 ## 📸 Interactive Dashboard Preview
-![Dashboard Preview](images/dashboard_overview.png)
+![Dashboard Preview](Dashboard.png)
+
+![Filtered Dashboard](Dashboard_filtered.png)
 
 ---
 
