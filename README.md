@@ -36,3 +36,13 @@ This project focuses on analyzing retail sales data from the **Sample Superstore
 ---
 
 ## 📁 Repository Structure
+
+| File | Description |
+|---|---|
+| `Sample - Superstore.xlsx` | Raw dataset sourced from Kaggle |
+| `Superstore_Sales_Dashboard.xlsx` | Final workbook with cleaned data, pivot tables, and interactive dashboard |
+| `Dashboard.png` | Screenshot of the dashboard (default view) |
+| `Dashboard_filtered.png` | Screenshot of the dashboard with slicers applied |
+
+
+
